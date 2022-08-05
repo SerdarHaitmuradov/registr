@@ -1,0 +1,22 @@
+body
+{
+    background-color:thistle;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:sans-serif;
+}
+form
+{
+    font-family:monospace;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+a
+{
+    color: #7c9ab7;
+    font-weight: bold;
+    text-decoration: none;
+}
